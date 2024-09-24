@@ -7,7 +7,7 @@ body {
     list-style: none;
 }
 
-@media (max-width:520px){
+@media (max-width:500px){
     .nav-btn{
         display: none;
     }
@@ -175,9 +175,9 @@ body {
     
     .nav-menu {
         position: absolute;
-        left: 20vw;
-        top: 50%;
-        transform: translateY(-26%);
+        left: 50%;
+        top: 35%;
+        transform: translateX(-50%);
     }
     
     .main {
